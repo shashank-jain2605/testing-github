@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shashank-jain2605/react-test.git/static/css/main.f2f9e4d3.chunk.css",
+    "main.js": "/shashank-jain2605/react-test.git/static/js/main.9066cc08.chunk.js",
+    "main.js.map": "/shashank-jain2605/react-test.git/static/js/main.9066cc08.chunk.js.map",
+    "runtime-main.js": "/shashank-jain2605/react-test.git/static/js/runtime-main.8ed6d773.js",
+    "runtime-main.js.map": "/shashank-jain2605/react-test.git/static/js/runtime-main.8ed6d773.js.map",
+    "static/js/2.a99e8b18.chunk.js": "/shashank-jain2605/react-test.git/static/js/2.a99e8b18.chunk.js",
+    "static/js/2.a99e8b18.chunk.js.map": "/shashank-jain2605/react-test.git/static/js/2.a99e8b18.chunk.js.map",
+    "index.html": "/shashank-jain2605/react-test.git/index.html",
+    "precache-manifest.0cec3aa0b355b3c60890a241fb3410c7.js": "/shashank-jain2605/react-test.git/precache-manifest.0cec3aa0b355b3c60890a241fb3410c7.js",
+    "service-worker.js": "/shashank-jain2605/react-test.git/service-worker.js",
+    "static/css/main.f2f9e4d3.chunk.css.map": "/shashank-jain2605/react-test.git/static/css/main.f2f9e4d3.chunk.css.map",
+    "static/js/2.a99e8b18.chunk.js.LICENSE.txt": "/shashank-jain2605/react-test.git/static/js/2.a99e8b18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed6d773.js",
+    "static/js/2.a99e8b18.chunk.js",
+    "static/css/main.f2f9e4d3.chunk.css",
+    "static/js/main.9066cc08.chunk.js"
+  ]
+}
